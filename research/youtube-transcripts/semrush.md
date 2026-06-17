@@ -1,6 +1,6 @@
 # Semrush AI Tools: Complete Guide to AI-Powered SEO and Content Marketing
 
-**Source:** [Semrush — YouTube](https://www.youtube.com/watch?v=4qCfvoQi758)
+**Source:** [How to Do SEO, Content, and Social Faster with AI](https://www.youtube.com/watch?v=4qCfvoQi758)
 **Speaker:** Eric Casagrande (Semrush)
 **Research scope:** Full walkthrough of Semrush's AI-powered product suite covering keyword research, content optimization, AI Overview tracking, and social media content generation — with live demonstrations across Copilot, Keyword Overview, Keyword Magic Tool, Keyword Strategy Builder, Position Tracking, SEO Writing Assistant, and Social Content AI
 

@@ -3,7 +3,7 @@
 ## Overview
 This document serves as a repository of selected SEO and AI experts to guide the development of a comprehensive AI-powered SEO Content Production System.[cite: 1]
 
-## Master List of Experts
+## List of Experts
 | # | Expert Name | Core Platform / Source | Key Focus & Annotation |
 |---|---|---|---|
 | 1 | Matt Kenyon | [YouTube](https://www.youtube.com/watch?v=8YRvsoY16Wc) | AI entity coverage, semantic relevance, and bottom-of-funnel money pages.[cite: 1] |
