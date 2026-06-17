@@ -1,5 +1,30 @@
-# Cursor-Installation
+# AI-powered SEO Content Production Research & Toolkit
 
+This repository contains a curated collection of high-signal sources and actionable strategies for AI-powered SEO content production, specifically focusing on the "Citation Economy" and "Complexity Mode."
+
+---
+
+## 🎯 Research Project Overview
+
+### 1. Topic Selection & Goal
+The chosen topic for this research project is **AI-powered SEO Content Production**. The primary goal is to analyze, collect, and synthesize next-generation workflows that allow content creators to utilize AI tools (like ChatGPT, Claude, and specialized SEO platforms) to produce high-value content that:
+* Earns high-signal attributions and citations in modern AI Search Engines (Google AI Overviews, Perplexity, ChatGPT).
+* Targets complex, multi-layered long-tail search queries (6+ words) where AI systems heavily rely on trusted human sources.
+* Maximizes multi-platform visibility to thrive in the changing zero-click search reality.
+
+### 2. Why These Experts? (High-Signal Practitioners)
+Following the strict instruction that "10 high-signal sources beat 50 generic ones," this project strictly targets active practitioners and industry frontrunners who back their strategies with large-scale data and real-world revenue testing:
+* **Matt Kenyon (Kenyon Digital / Surfer):** Selected because he provides direct product-led workflows on using AI for complete entity coverage, optimization metrics, and securing high-intent bottom-of-funnel (BOFU) organic rankings.
+* **Neil Patel (NP Digital):** Selected as a macro-marketing authority providing clear data on Google's algorithmic shifts toward the Citation Economy, query complexity trigger rates, and cross-platform search behavior.
+
+### 3. Repository Structure
+To maintain a high-premium data standard, the project is structured as follows:
+* `/research/sources.md` - Master list of all 10 targeted experts with live links, collection timestamps, and strategic annotations.
+* `/research/youtube-transcripts/` - Premium analysis, executive summaries, and action plans extracted from core video assets (e.g., `matt-kenyon.md`, `neil-patel.md`).
+* `/research/linkedin-posts/` - Industry-shaping posts, short-form breakdowns, and real-time POVs organized by author.
+
+---
+## 2. Technical Setup & Environment (Cursor-Installation)
 ## Tools Installed
 * Installed *Cursor IDE*: An AI-powered code editor built to improve development speed and efficiency.
 * Installed **Claude Code Add-on** & **Codex Add-on** extension from Marketplace.

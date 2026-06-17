@@ -2,7 +2,7 @@ import requests
 
 # 1. Paste Matt Kenyon's YouTube URL inside the quotes below
 API_KEY = "sd_0e5774a5377e566edddbfcca130da7b9"
-VIDEO_URL = "https://www.youtube.com/watch?v=BAF5GJFuvMU"
+VIDEO_URL = "https://www.youtube.com/watch?v=4C0lYbcqXMo"
 
 def fetch_transcript():
     print("🚀 Connecting to Supadata API...")
