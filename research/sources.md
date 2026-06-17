@@ -3,7 +3,7 @@
 ## Overview
 This document serves as a repository of selected SEO and AI experts to guide the development of a comprehensive AI-powered SEO Content Production System.[cite: 1]
 
-## List of Experts
+## Master List of Experts
 | # | Expert Name | Core Platform / Source | Key Focus & Annotation |
 |---|---|---|---|
 | 1 | Matt Kenyon | [YouTube](https://www.youtube.com/watch?v=8YRvsoY16Wc) | AI entity coverage, semantic relevance, and bottom-of-funnel money pages.[cite: 1] |
@@ -14,8 +14,8 @@ This document serves as a repository of selected SEO and AI experts to guide the
 | 6 | Edward Sturm | [YouTube](https://www.youtube.com/watch?v=nYOYNPtjS5g) | AI Parasite SEO using Claude Artifacts and brand reputation management.[cite: 1] |
 | 7 | Eric Casagrande | [YouTube](https://www.youtube.com/watch?v=4qCfvoQi758) | AI-powered workflows using Semrush ecosystem and data-informed prioritization.[cite: 1] |
 | 8 | Brandon Leibowitz | [LinkedIn](https://www.linkedin.com/pulse/seo-ai-how-search-evolving-faster-than-most-marketers-leibowitz-oqree/) | Convergence of SEO and AI, semantic SEO, and structured content trust.[cite: 1] |
-| 9 | Jake Hissitt | [LinkedIn](https://www.linkedin.com/pulse/how-do-ai-seo-guide-search-visibility-2026-jake-hissitt-9v74e/) | Generative Engine Optimization (GEO) and scalable AI-driven content systems.[cite: 1] |
-| 10 | Fakhar Nazir | [LinkedIn](https://www.linkedin.com/pulse/best-ai-detectors-worth-running-your-content-through-fakhar-nazir-nvuhf/) | AI writing tools, humanization techniques, and editorial QA workflows.[cite: 1] |
+| 9 | Jake Hissitt | [LinkedIn Article-1](https://www.linkedin.com/pulse/how-do-ai-seo-guide-search-visibility-2026-jake-hissitt-9v74e/),[LinkedIn Article-2](https://www.linkedin.com/pulse/how-build-your-linkedin-content-engine-openclaw-codex-jake-hissitt-bjqfe/?trackingId=rKKTM9dh1Gw92Grwvy6XgA%3D%3D) | Generative Engine Optimization (GEO) and scalable AI-driven content systems.[cite: 1] |
+| 10 | Fakhar Nazir | [LinkedIn Article-1](https://www.linkedin.com/pulse/best-ai-detectors-worth-running-your-content-through-fakhar-nazir-nvuhf/),[LinkedIn Article-2](https://www.linkedin.com/pulse/best-ai-humanizers-compared-what-actually-works-different-nazir-qt0uf/),[LinkedIn Article-3](https://www.linkedin.com/pulse/ai-writing-tools-worth-having-content-professionals-fakhar-nazir-ndjef/) | AI writing tools, humanization techniques, and editorial QA workflows.[cite: 1] |
 
 ## Coverage Map
 - **AI SEO Strategy & Search Evolution:** Neil Patel, Brandon Leibowitz, Nathan Gotch[cite: 1]
